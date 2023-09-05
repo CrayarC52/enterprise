@@ -2,7 +2,7 @@ package com.myplantdiary.enterprise;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//Hello?
 @SpringBootApplication
 public class EnterpriseApplication {
 
